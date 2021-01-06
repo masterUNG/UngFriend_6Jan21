@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "629912128841",
+    "project_id": "ungfriend",
+    "storage_bucket": "ungfriend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629912128841:android:cbc0df05674ad3b1621e98",
+        "android_client_info": {
+          "package_name": "com.flutterthailand.ungfriend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629912128841-uh9djheeirddh4smuhk8pfi2bl4nqdka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1F5PfFQamlsVKveuBTOWvb0yTIRj0ILk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629912128841-uh9djheeirddh4smuhk8pfi2bl4nqdka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
